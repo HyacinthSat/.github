@@ -1,7 +1,9 @@
-# About This Repositories | 关于此仓库<br>
-<br>
-This repository is used to display descriptive documents and progress on the Hyacinth Amateur Satellite.<br>
-该存储库用于展示有关『Hyacinth』业余卫星的描述文档和进展。<br>
-<br>
+# 关于此仓库 | About This Repository  
 
-## Directory | 目录<br>
+This repository is used for collaboration between subsystems of the 「Hyacinth」 amateur satellite project, as well as for presenting various descriptive documents and progress updates.
+
+该存储库用于『Hyacinth』业余卫星项目各分系统间的协作及各类描述文档与进展的展示。  
+
+## 目录 | Directory  
+- [测控分系统 | COMMS](https://github.com/HyacinthSat/COMMS)
+- [结构分系统 | STR](https://github.com/HyacinthSat/STR)
