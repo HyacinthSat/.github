@@ -10,6 +10,5 @@ This organization is used for collaboration between subsystems of the 「Hyacint
 - [结构分系统 | Structure](https://github.com/HyacinthSat/Structure)  
 
 ## 其他 | Others
-- [.github](https://github.com/HyacinthSat/.github)  
 - [SSTV](https://github.com/HyacinthSat/SSTV)  
 - [APRS AX.25](https://github.com/HyacinthSat/APRS-AX.25)  
