@@ -12,3 +12,7 @@ This organization is used for collaboration between subsystems of the 「Hyacint
 ## 其他 | Others
 - [SSTV](https://github.com/HyacinthSat/SSTV)  
 - [APRS AX.25](https://github.com/HyacinthSat/APRS-AX.25)  
+
+## 参与者 | Member
+BI1VBQ BG2GFC BI3BO BI4PYM BI4LPZ BG5BEE BH6BEZ BG6HVQ BI6OPR BG7ZHT BG7ZDQ BG7ZCM BG7ZHR BG7ZBK BA7LVG BD8BJB  
+（排名不分先后）
