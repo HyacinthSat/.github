@@ -15,6 +15,7 @@ This organization is used for collaboration between subsystems of the 「Hyacint
 - [SX1278-Driver](https://github.com/HyacinthSat/SX1278-Driver)
 - [MPPT Test Tool](https://github.com/HyacinthSat/MpptTestTool)
 - [EPS Ctrl System](https://github.com/HyacinthSat/Esp_PowerCtrlSys)
+- [General Template](https://github.com/HyacinthSat/General-Template)
 - [High Altitude Balloon](https://github.com/HyacinthSat/High-Altitude-Balloons)
 
 ## 参与者 | Member
