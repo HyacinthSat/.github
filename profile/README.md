@@ -12,6 +12,7 @@ This organization is used for collaboration between subsystems of the 「Hyacint
 ## 其他 | Others
 - [SSTV](https://github.com/HyacinthSat/SSTV)  
 - [APRS AX.25](https://github.com/HyacinthSat/APRS-AX.25)
+- [SX1278-Driver](https://github.com/HyacinthSat/SX1278-Driver)
 - [MPPT Test Tool](https://github.com/HyacinthSat/MpptTestTool)
 - [EPS Ctrl System](https://github.com/HyacinthSat/Esp_PowerCtrlSys)
 - [High Altitude Balloon](https://github.com/HyacinthSat/High-Altitude-Balloons)
